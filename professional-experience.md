@@ -112,12 +112,13 @@ Some of these are pretty techy, but less so than the things listed above.
 
 ### Soft Skills
 
-* Training
-* Leadership
+* Training Personnel
+* General Leadership and Management
 * Communication 
-* Writing
-* Research
+* Technical and Sales Writing
+* Technical and Marketing Research
 * Hiring & Interviewing
+* Creating Businesses
 
 ### Portfolio Highlights / Interesting Projects
 
