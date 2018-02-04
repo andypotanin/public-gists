@@ -1,11 +1,10 @@
+I'm a businessman who knows how to code. In general, very highly experienced with nearly all aspects of contemporary web development, deployment, DevOps, and aspects of building a solid stack that can scale. Very early adopter of Docker and Node.js., very strong background in WordPress API.
 
-I'm a business man who knows how to code. In general, very highly experienced with nearly all aspects of contemporary web development, deployment, DevOps and aspects of building a solid stack that can scale.  Very early adopter of Docker and Node.js., very strong background in WordPress API.
+Started programming while in the military when was asked to create a program for tracking detainees. After the military worked as a defense contractor and built an ERP from scratch during a two-year project. After defense contracting founded Usability Dynamics, Inc. where was afforded the opportunity to gain a very in-depth familiarity with Docker, CoreOS, and DevOps.
 
-Started programming while in the military when was asked to create a program for tracking detainees. After the military worked as a defense contractor and built an ERP from scratch during a two year project. After defense contracting founded Usability Dynamics, Inc. where was afforded the opportunity to gain a very in-depth familiarity with Docker, CoreOS and DevOps.  
+Spent a lot of time improving business workflow and DevOps so our company could continue turning out great work for our clients.
 
-Spent a lot of time improving business workflow and DevOps so our company could continue turning out great work for our clients. 
-
-Also, I had the priviledge of releasing, or helping release, several popular business WordPress plugins such as WP-Stateless, WP-Invoice, WP-CRM and WP-Property.
+Also, I had the privilege of releasing or helping release, several popular business WordPress plugins such as WP-Stateless, WP-Invoice, WP-CRM, and WP-Property.
 
 ---
 
